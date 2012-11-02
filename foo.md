@@ -2,7 +2,5 @@
 
 jo!
 
-```objc
-id<AGPipe> myPipe = [pipeline add:@"foo"];
+    id<AGPipe> myPipe = [pipeline add:@"foo"];
 
-```
